@@ -1,0 +1,25 @@
+.mainDiv {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    padding: 24px;
+}
+
+.listx {
+    padding: 24px;
+    background-color: purple;
+    color: white;
+}
+
+.listElement {
+    padding: 4px;
+    list-style-type: disc;
+}
+
+.buttonC {
+    padding: 10px;
+    background-color: cyan;
+    border-radius: 10px;
+    margin-top: 10px;
+}
